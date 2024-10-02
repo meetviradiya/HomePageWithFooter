@@ -131,7 +131,7 @@
 }
 
 .dropdown:hover .dropdown-content {
-    display: inline-grid;
+    display: flex;
 }
 
 .cart {
